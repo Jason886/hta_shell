@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToHex", "ToHex\ToHex.vcxproj", "{2523AB06-1552-4020-A394-35A90AAA829C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2523AB06-1552-4020-A394-35A90AAA829C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2523AB06-1552-4020-A394-35A90AAA829C}.Debug|Win32.Build.0 = Debug|Win32
+		{2523AB06-1552-4020-A394-35A90AAA829C}.Release|Win32.ActiveCfg = Release|Win32
+		{2523AB06-1552-4020-A394-35A90AAA829C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
